@@ -1,4 +1,4 @@
-# Whitecat?
+# Whitecat
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/dued/whitecat.svg)](https://hub.docker.com/r/dued/whitecat)
 [![Layers](https://images.microbadger.com/badges/image/dued/whitecat.svg)](https://microbadger.com/images/dued/whitecat)
