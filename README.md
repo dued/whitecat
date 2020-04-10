@@ -11,7 +11,7 @@ Las tecnologías de lista blanca de red han sido una línea de defensa clave par
 
 > Un EndPoint es un dispositivo informático remoto que se comunica con una red a la que está conectado.
 
-## Para que sirve?
+## ¿Para que sirve?
 
 resuelve: https://github.com/moby/moby/issues/36174.
 
@@ -21,7 +21,7 @@ resuelve: https://github.com/moby/moby/issues/36174.
 * Exponer puertos desde un contenedor sin dejar que el contenedor acceda a la WWW.
 
 
-## Como lo hacemos?
+## ¿Como lo hacemos?
 
 Usa estas variables de entorno
 
